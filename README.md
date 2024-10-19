@@ -1,2 +1,2 @@
-# strict
+# hard
 厳しいって
